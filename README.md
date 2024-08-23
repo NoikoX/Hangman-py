@@ -1,6 +1,20 @@
-#1 One of my introduction to programming class homeworks was hangman game, it was fun to code
-![unnamed](https://github.com/user-attachments/assets/4255eda1-e0a6-4957-8e04-6ef0d81259d4)
+# Hangman Game
 
-```python
-code block
-def hangman()
+## Introduction
+This is a simple Hangman game implemented in Python. The game randomly selects a word, and the player must guess it one letter at a time.
+
+## Features
+- Enhanced word list
+- Graphical representation of the hangman(not yet)
+
+![unnamed](https://github.com/user-attachments/assets/57175aa3-89d7-49e3-a53c-5f1546aa77af)
+
+
+## How to Run
+1. Clone the repository
+2. Install required dependencies: `pip install -r requirements.txt`
+3. Run the game: `python hangman.py`
+
+## Future Improvements
+- Add a graphical user interface (GUI)
+- Implement multiplayer mode
